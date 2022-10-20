@@ -1,5 +1,0 @@
-Imie Nazwisko Wiek Wzrost
-Mariusz Kowalski 25 180
-Kamil Juraszek 18 165
-Iza Adamczyk 30 159
-Kinga Kowal 14 130
